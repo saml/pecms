@@ -3,10 +3,7 @@
 ## Build & Run ##
 
 ```sh
-$ cd pecms
-$ ./sbt
-> container:start
-> browse
+$ go build
+$ ./pecms
 ```
 
-If `browse` doesn't launch your browser, manually open [http://localhost:8080/](http://localhost:8080/) in your browser.

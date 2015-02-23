@@ -1,4 +1,6 @@
 ## generic files to ignore
+pecms
+
 *~
 *.lock
 *.DS_Store

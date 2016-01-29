@@ -1,6 +1,6 @@
 ## generic files to ignore
-pecms
 deps/
+bin/
 
 *~
 *.lock

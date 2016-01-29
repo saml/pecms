@@ -1,8 +1,24 @@
 {
   "GitRepos": {
-    "deps/src/gin": {
-      "URI": "https://github.com/gin-gonic/gin.git",
+    "deps/src/github.com/gin-gonic/gin": {
+      "URI": "https://github.com/gin-gonic/gin",
       "Ref": "44978ff780ce235a830f6be7cfde42d350b1484d"
+    },
+    "deps/src/github.com/golang/protobuf": {
+      "URI": "https://github.com/golang/protobuf",
+      "Ref": "45bba206dd5270d96bac4942dcfe515726613249"
+    },
+    "deps/src/github.com/manucorporat/sse": {
+      "URI": "https://github.com/manucorporat/sse",
+      "Ref": "ee05b128a739a0fb76c7ebd3ae4810c1de808d6d"
+    },
+    "deps/src/golang.org/x/net": {
+      "URI": "https://go.googlesource.com/net",
+      "Ref": "04b9de9b512f58addf28c9853d50ebef61c3953e"
+    },
+    "deps/src/gopkg.in/go-playground/validator.v8": {
+      "URI": "https://gopkg.in/go-playground/validator.v8",
+      "Ref": "c193cecd124b5cc722d7ee5538e945bdb3348435"
     }
   },
   "MercurialRepos": {}

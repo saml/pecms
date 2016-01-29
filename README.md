@@ -2,10 +2,11 @@
 
 ## Build & Run ##
 
-Install Go and [Glide](https://github.com/Masterminds/glide)
+Install Go and [wgo](https://github.com/skelterjohn/wgo)
 
 ```sh
-glide install
-go build
+wgo restore
+make
+bin/pecms
 ```
 

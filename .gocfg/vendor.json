@@ -1,12 +1,8 @@
 {
   "GitRepos": {
-    "vendor/src/github.com/jmoiron/sqlx": {
-      "URI": "https://github.com/jmoiron/sqlx",
-      "Ref": "54aec3fd91a2b2129ffaca0d652b8a9223ee2d9e"
-    },
-    "vendor/src/github.com/mattn/go-sqlite3": {
-      "URI": "https://github.com/mattn/go-sqlite3",
-      "Ref": "5510da399572b4962c020184bb291120c0a412e2"
+    "deps/src/gin": {
+      "URI": "https://github.com/gin-gonic/gin.git",
+      "Ref": "44978ff780ce235a830f6be7cfde42d350b1484d"
     }
   },
   "MercurialRepos": {}
